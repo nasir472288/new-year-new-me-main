@@ -238,3 +238,10 @@
 
 }
 
+.footer-blue-btn{
+    padding: 15px 30px;
+    margin: 15px;
+    background-color: #0085d0;
+    color: #fff;
+    border-radius: 5px;   
+}
