@@ -209,6 +209,8 @@
     margin: 15px;
     background-color: #fff;
     border-radius: 5px;
+
+   
 }
 
 /* page-2 */
@@ -244,4 +246,12 @@
     background-color: #0085d0;
     color: #fff;
     border-radius: 5px;   
+}
+
+.btn-3{
+    border: none;
+    border-radius: 5px;
+    padding: 20px 25px;
+    background-color: #fff;
+    color: #0085d0;
 }
