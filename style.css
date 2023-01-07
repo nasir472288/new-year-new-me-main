@@ -126,8 +126,8 @@
     margin-top: 50px;
 }
 
-.watch-image{
-    background-image: url(images/watch.png);
+.gradient-image-1{
+    background-image: url(images/gradient3.png);
     height: 250px;
     width: auto;
     border-radius: 5px;
@@ -136,6 +136,25 @@
     
 }
 
+.gradient-image-2{
+    background-image: url(images/gradient2.png);
+    height: 250px;
+    width: auto;
+    border-radius: 5px;
+    color: #fff;
+    text-align: left;
+    
+}
+
+.gradient-image-3{
+    background-image: url(images/gradient1.png);
+    height: 250px;
+    width: auto;
+    border-radius: 5px;
+    color: #fff;
+    text-align: left;
+    
+}
 .watch-images-title{
     font-weight: 900px;
        margin-top: 25px;
